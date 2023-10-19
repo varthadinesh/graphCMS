@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/graphCMS/static/css/main.fa9ad923.css",
+    "main.js": "/graphCMS/static/js/main.fd8991db.js",
+    "index.html": "/graphCMS/index.html",
+    "main.fa9ad923.css.map": "/graphCMS/static/css/main.fa9ad923.css.map",
+    "main.fd8991db.js.map": "/graphCMS/static/js/main.fd8991db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa9ad923.css",
+    "static/js/main.fd8991db.js"
+  ]
+}
